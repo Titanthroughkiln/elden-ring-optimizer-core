@@ -36,4 +36,4 @@ Complete **Elden Ring Optimizer Core** productivity environment offering calenda
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
